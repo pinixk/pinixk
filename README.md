@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjkim0110)](https://solved.ac/yaiba713/)
 
